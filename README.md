@@ -1,57 +1,58 @@
-<h2 align="left">Hi 👋! My name is Sahithi Kanjarla and I'm a Final Year CSE Undergrad from Hyderabad, India</h2>
+<h2 align="left">Hi 👋! I'm Sahithi Kanjarla</h2>
 
 <p align="left">
-  I’m passionate about using technology to solve real-world problems. With a strong foundation in software development and a growing interest in AI/ML, 
-  I enjoy building meaningful projects, working with data, and exploring new tools and frameworks.  
-  <br><br>
-  I love to collaborate with like-minded people, exchange ideas, and contribute to impactful tech solutions. Let’s build something great together!
+🎓 Final Year Computer Science Student from Hyderabad, India  
+💡 Passionate about using technology to solve real-world problems  
+🤝 Love to collaborate, learn, and contribute to impactful projects  
+🚀 Currently exploring Artificial Intelligence and Machine Learning
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahithi-kanjarla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahithi-kanjarla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-Python • C • Java • Arduino • SQL • R • HTML • CSS • JavaScript • React.js
+#### 💻 Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
+</div>
 
-**Libraries/Frameworks/Tools:**  
-NumPy • Pandas • Matplotlib • Flask • Power BI • AWS
+#### 📚 Frameworks / Libraries / Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI" />
+</div>
 
-**Soft Skills:**  
-Leadership • Teamwork • Event Management • Presentation Skills • Research Writing
+---
 
-**Key Courses:**  
-Operating Systems • Computer Networks • Computer Vision • Software Engineering
+### 📊 GitHub Stats
 
-**Currently Exploring:**  
-AI/ML and its applications in solving real-life challenges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahithi-kanjarla&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahithi-kanjarla&layout=compact&theme=dracula&langs_count=6&hide_border=true" height="150" />
+</div>
 
-###
+---
 
-### 🔗 Connect with Me
+### 📫 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sahithi-kanjarla" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:sahithikanjarla@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
