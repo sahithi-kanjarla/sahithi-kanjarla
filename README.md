@@ -1,11 +1,8 @@
 <h2 align="left">Hi 👋! I'm Sahithi Kanjarla</h2>
 
 <p align="left">
-🎓 Final Year Computer Science Student from Hyderabad, India  
-💡 Passionate about using technology to solve real-world problems  
-🤝 Love to collaborate, learn, and contribute to impactful projects  
-🚀 Currently exploring Artificial Intelligence and Machine Learning
-</p>
+Final-year Computer Science student from Hyderabad, India. I am passionate about leveraging technology to solve real-world problems. I enjoy collaborating with others, continuously learning, and contributing to impactful projects. Currently, I am exploring the fields of Artificial Intelligence and Machine Learning.
+
 
 ---
 
@@ -25,14 +22,20 @@
 
 #### 📚 Frameworks / Libraries / Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL" />
-  <img src=https://icon2.cleanpng.com/20190418/vhc/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897597915.webp />
-  <img src=https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png />
+ <!-- React, Flask, NumPy, etc. -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+
+<!-- AWS -->
+<img src=https://icon2.cleanpng.com/20190418/vhc/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897597915.webp height="30" alt="AWS" />
+
+<!-- Power BI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI" />
+
 </div>
 
 ---
@@ -52,7 +55,7 @@
   <a href="https://www.linkedin.com/in/sahithi-kanjarla" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:sahithikanjarla@example.com" target="_blank">
+  <a href="mailto:sahithikanjarla4082@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
