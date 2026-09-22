@@ -30,13 +30,6 @@ I build practical software products across **full-stack development, AI/ML, and 
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### Currently Exploring
-
-- Agentic AI and AI application development
-- RAG and LLM-based applications
-- Backend and full-stack development
-- Cloud-based applications and automation
-
 ### GitHub Activity
 
 <p>
@@ -44,13 +37,22 @@ I build practical software products across **full-stack development, AI/ML, and 
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-### Contribution Graph
+### Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
