@@ -15,9 +15,10 @@ I build practical software products across **full-stack development, AI/ML, and 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### AI & Generative AI
@@ -38,16 +39,31 @@ I build practical software products across **full-stack development, AI/ML, and 
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahithi-kanjarla&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi-kanjarla&layout=compact&langs_count=8&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sahithi-kanjarla&hide_border=true)
+<p>
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ### Contribution Graph
 
-![Contribution Snake](https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahithi-kanjarla/sahithi-kanjarla/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ### Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/sahithi-kanjarla) · [Email](mailto:YOUR_EMAIL@example.com)
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sahithi-kanjarla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
