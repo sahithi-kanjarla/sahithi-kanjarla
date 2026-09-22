@@ -25,27 +25,34 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Slow down animation
+      - name: Slow down snake animation
+        shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
           import re
 
-          for file in Path("dist").glob("*.svg"):
-              text = file.read_text()
+          SPEED = 4
 
-              # Increase animation duration by 2.5x
-              def slow(match):
-                  value = float(match.group(1))
-                  return f'dur="{value * 2.5:g}s"'
+          for path in Path("dist").glob("*.svg"):
+              svg = path.read_text()
 
-              text = re.sub(
-                  r'dur="([0-9.]+)s"',
-                  slow,
-                  text
+              # Slow animation durations
+              svg = re.sub(
+                  r'(\bdur=")([0-9.]+)(s")',
+                  lambda m: f'{m.group(1)}{float(m.group(2)) * SPEED:g}{m.group(3)}',
+                  svg
               )
 
-              file.write_text(text)
+              # Slow animation start times
+              svg = re.sub(
+                  r'(\bbegin=")([0-9.]+)(s")',
+                  lambda m: f'{m.group(1)}{float(m.group(2)) * SPEED:g}{m.group(3)}',
+                  svg
+              )
+
+              path.write_text(svg)
+
           PY
 
       - name: Publish snake
