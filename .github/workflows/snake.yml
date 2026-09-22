@@ -32,7 +32,7 @@ jobs:
           from pathlib import Path
           import re
 
-          SPEED = 1
+          SPEED = 1000
 
           for path in Path("dist").glob("*.svg"):
               svg = path.read_text()
